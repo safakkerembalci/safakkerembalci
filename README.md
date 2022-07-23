@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Kerem!
 
-- 🔭 I’m currently working on JAVA and SQL
-- 🌱 I’m currently learning Solidity
-
 <h3 align="center">A passionate learner from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safakkerembalci&label=Profile%20views&color=0e75b6&style=flat" alt="safakkerembalci" /> </p>
