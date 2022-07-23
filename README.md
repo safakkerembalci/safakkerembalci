@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Kerem!
 
-<h3 align="center">A passionate learner from Turkey</h3>
-
 - 🌱 I’m currently learning **JAVA, SQL**
 
 - 📫 How to reach me **[e-mail](kerembalci@gmail.com)**
