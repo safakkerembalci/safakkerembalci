@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kerem!
 
-- 🌱 I’m currently learning **JAVA, SQL**
+- 🌱 I’m currently learning **JAVA, C#, SQL**
 
 - 📫 How to reach me **[e-mail](kerembalci@gmail.com)**
 
